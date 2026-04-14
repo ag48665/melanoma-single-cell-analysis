@@ -30,9 +30,6 @@ melanoma-single-cell-analysis/
 │   ├── tcell_exhaustion.png
 │   ├── tumor_states.png
 │
-│── data/
-│   └── metadata / processed input files
-│
 └── README.md
 
 
