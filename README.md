@@ -164,8 +164,8 @@ Survival-associated signatures
 Multi-omics integration
 
 # Author
-
 Independent computational biology project developed to build research-ready skills in cancer genomics and single-cell analysis.
+
 ---
 
 
