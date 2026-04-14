@@ -133,7 +133,7 @@ melanoma-single-cell-analysis/
 │
 └── README.md
 
-Example Figures
+# Figures
 Global UMAP
 
 Cell populations across the melanoma microenvironment.
@@ -146,7 +146,7 @@ Tumour Programs
 
 Differentiated vs proliferative vs plastic melanoma states.
 
-Skills Demonstrated
+# Skills Demonstrated
 Single-cell RNA-seq analysis
 Cancer bioinformatics
 Transcriptomics
@@ -161,6 +161,5 @@ Differential expression by patient
 Survival-associated signatures
 Multi-omics integration
 
-Author
-
+# Author
 Independent computational biology project developed to build research-ready skills in cancer genomics and single-cell analysis.
