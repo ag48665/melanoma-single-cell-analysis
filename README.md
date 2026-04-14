@@ -132,3 +132,35 @@ melanoma-single-cell-analysis/
 │   └── metadata / processed input files
 │
 └── README.md
+
+Example Figures
+Global UMAP
+
+Cell populations across the melanoma microenvironment.
+
+T-cell Exhaustion Score
+
+Spatial distribution of exhausted T-cell states.
+
+Tumour Programs
+
+Differentiated vs proliferative vs plastic melanoma states.
+
+Skills Demonstrated
+Single-cell RNA-seq analysis
+Cancer bioinformatics
+Transcriptomics
+Data visualization
+Biological interpretation
+Reproducible research workflows
+Python for life sciences
+Future Extensions
+Pseudotime trajectory analysis
+Cell-cell communication (CellChat / CellPhoneDB)
+Differential expression by patient
+Survival-associated signatures
+Multi-omics integration
+
+Author
+
+Independent computational biology project developed to build research-ready skills in cancer genomics and single-cell analysis.
