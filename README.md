@@ -115,26 +115,6 @@ Partial expression of:
 
 ---
 
-# Repository Structure
-
-```text
-melanoma-single-cell-analysis/
-│── notebooks/
-│   ├── 01_start.ipynb
-│   └── 02_melanoma_project.ipynb
-│
-│── figures/
-│   ├── umap_celltypes.png
-│   ├── tcell_exhaustion.png
-│   ├── tumor_states.png
-│
-│── data/
-│   └── metadata / processed input files
-│
-└── README.md
-
----
-
 
 # Figures
 Global UMAP
@@ -166,3 +146,26 @@ Multi-omics integration
 
 # Author
 Independent computational biology project developed to build research-ready skills in cancer genomics and single-cell analysis.
+---
+
+
+# Repository Structure
+
+melanoma-single-cell-analysis/
+│── notebooks/
+│   ├── 01_start.ipynb
+│   └── 02_melanoma_project.ipynb
+│
+│── figures/
+│   ├── umap_celltypes.png
+│   ├── tcell_exhaustion.png
+│   ├── tumor_states.png
+│
+│── data/
+│   └── metadata / processed input files
+│
+└── README.md
+
+---
+
+
